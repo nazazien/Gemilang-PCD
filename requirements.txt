@@ -1,0 +1,9 @@
+streamlit
+numpy==2.2.4
+pandas==2.2.3
+matplotlib==3.9.2
+pillow==10.4.0
+opencv-python
+scikit-learn==1.5.2
+openpyxl
+streamlit-option-menu==0.4.0
