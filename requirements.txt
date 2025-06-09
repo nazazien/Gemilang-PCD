@@ -1,7 +1,7 @@
 streamlit
-numpy==1.26.4
-pandas==2.2.3
-matplotlib==3.9.2
-pillow==10.4.0
 opencv-python==4.9.0.80
-scikit-learn==1.5.2
+numpy==1.26.4
+pillow
+matplotlib
+pandas
+scikit-learn
